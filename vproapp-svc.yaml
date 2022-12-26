@@ -8,5 +8,5 @@ spec:
       targetPort: vprapp-port
       protocol: TCP
   selector:
-    app: vprapp
+    app: vproapp
   type: LoadBalancer
